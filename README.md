@@ -1,1 +1,1 @@
-React + Express.js + tRPC 
+React + Express.js + tRPC + React Query + Zod
